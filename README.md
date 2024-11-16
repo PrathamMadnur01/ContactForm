@@ -1,7 +1,3 @@
-Here’s the updated **README.md** without references to the discarded `initDatabase.js`. The content has been updated accordingly.
-
----
-
 # **Contact Management System**
 
 A fully functional Contact Management System built with **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and styled using **Material-UI**. The application allows users to manage contacts with features to **Add**, **Edit**, **Delete**, and **View** contacts.
@@ -97,7 +93,7 @@ cd Contact-Management-System
 
 4. Start the backend server:
    ```bash
-   npm start
+   node server.js
    ```
 
 ---
@@ -162,7 +158,7 @@ Displays navigation options:
 - **Add Contact**
 - **Manage Contacts**
 
-![Home Page](./screenshots/home-page.png)
+![Home Page](./screenshots/homepage.png)
 
 ### **Add Contact Page**
 Form for adding new contacts with validation:
